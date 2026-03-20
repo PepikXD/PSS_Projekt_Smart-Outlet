@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "Smart_Outlet_AP";
+const char* ssid = "Smart_Outlet_Monitor";
 const char* password = "password123"; 
 
 const int relayPin = 5;      
